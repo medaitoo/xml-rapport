@@ -1,0 +1,17 @@
+<!DOCTYPE HTML><html xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Rapport</title>
+   </head>
+   <body>
+      <table border="1" width="70%">
+         <tr>
+            <th>Num</th>
+            <th>Date</th>
+            <th>Exp</th>
+            <th>Dest</th>
+            <th>Montant</th>
+         </tr>
+      </table>
+   </body>
+</html>
